@@ -22,8 +22,12 @@ If a member "Tom" makes changes to the home page file "index.html" to update the
 
 ### Part 2: Simulating Tom and Jerry's Work.
 1. Tom's Work
+Tom's update-navigation branch link: https://github.com/SammyBloom/ai-startup-website/tree/update-navigation
+Change to update-navigation branch, pull changes, commit changes, push changes
 ![update navigation](readme-img/update-navigation.png "tom work")
 2. Jerry's Work
+Jerry's add-contact-info branch link: https://github.com/SammyBloom/ai-startup-website/tree/add-contact-info
+Change to add-contact-info branch, pull changes, commit changes, push changes
 ![add contact](readme-img/add-contact-info.png "jerry work")
 
 The website shows like this:
