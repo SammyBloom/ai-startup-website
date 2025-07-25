@@ -34,3 +34,21 @@ The website shows like this:
 ![website](readme-img/website.png "website")
 
 The repository link is this: https://github.com/SammyBloom/ai-startup-website.git
+
+### Part 3: Merging Changes
+1. Pull Request for Tom - Update Navigation Branch
+- Navigate to GitHub repository.
+- Switch to the branch
+![Navigate](readme-img/goto_repo.png "navigate")
+- Create new pull request
+![NewPull](readme-img/new_pull.png "new request")
+- Review changes
+- Create the pull request
+![PullRequest](readme-img/create_pull.png "pull request")
+
+2. Pull Request for Tom - Add Contact Info Branch
+- Navigate to GitHub repository.
+- Switch to the branch
+- Create new pull request
+- Review changes
+- Create the pull request
