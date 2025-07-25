@@ -52,3 +52,6 @@ The repository link is this: https://github.com/SammyBloom/ai-startup-website.gi
 - Create new pull request
 - Review changes
 - Create the pull request
+
+3. Merge pull requests
+![Merge](readme-img/merge.png "merge request")
